@@ -1,0 +1,5 @@
+File handling is a very important concept for any programmer.
+It can be used for creating, deleting, moving files or to store application data, 
+user configurations, videos, images, etc. Python too supports file handling and 
+allows users to handle files i.e., to read and write files, along with many other 
+file handling options, to operate on files.
